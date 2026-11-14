@@ -1,4 +1,4 @@
-# Divera Request Service
+# Divera Request Service - deprecated
 
 - **License**: WTFPL v2 – Do What the Fuck You Want to Public License
 
